@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SmokeTestSuite,,SmokeScenarios,,2023-04-10 13:26:31,2023-04-10 13:26:38,7.031s,FAILED
+,,,,,,,
+Test Cases/NewTestCases/OpenAmazon,,Amazon,,2023-04-10 13:26:37,2023-04-10 13:26:38,1.010s,FAILED
+"openBrowser("""")",,,,2023-04-10 13:26:37,2023-04-10 13:26:38,1.001s,FAILED
