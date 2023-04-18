@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SmokeTestSuite,Chrome 111.0.0.0,SmokeScenarios,,2023-04-10 13:23:14,2023-04-10 13:23:37,22.556s,PASSED
+,,,,,,,
+Test Cases/NewTestCases/OpenAmazon,Chrome 111.0.0.0,Amazon,,2023-04-10 13:23:15,2023-04-10 13:23:37,22.301s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-04-10 13:23:15,2023-04-10 13:23:18,2.724s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 111.0.0.0,,,2023-04-10 13:23:18,2023-04-10 13:23:21,3.666s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com. Spend less. Smile more/input_India_a-button-input""))",Chrome 111.0.0.0,,,2023-04-10 13:23:21,2023-04-10 13:23:24,2.407s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords""), ""mobiles"")",Chrome 111.0.0.0,,,2023-04-10 13:23:24,2023-04-10 13:23:26,1.889s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button""))",Chrome 111.0.0.0,,,2023-04-10 13:23:26,2023-04-10 13:23:36,10.447s,PASSED
+closeBrowser(),Chrome 111.0.0.0,,,2023-04-10 13:23:36,2023-04-10 13:23:37,0.832s,PASSED
